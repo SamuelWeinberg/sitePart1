@@ -1,0 +1,43 @@
+.center{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+nav{
+    color: aliceblue;
+}
+
+
+header{
+    min-height: 80px;
+    background:rgb(202, 202, 210) ;
+    color: black;
+}
+header .non-mt a{
+  
+    color: aliceblue;
+   padding: 2px 14px;
+}
+p{
+
+   background:white;
+   color: black;
+}
+
+footer{
+  min-height: 80px;
+    background:rgb(43, 255, 0);
+    color: black;
+    flex-shrink: 0
+} 
+
+footer .momr-n a{
+    color: aliceblue;
+    padding: 2px 14px; 
+}
+p .matn-l{
+    border: 8px seagreen;
+    min-height: 60px;
+}
+
