@@ -29,12 +29,15 @@
         </div>
         <div class=" container-fluid  globl col-6 ">
          <form >
-            <label class="form-label" for="nameField" >Your name</label>
-            <input class="form-control" type="text" id="nameField" >
+            <label class="form-label" for="nameField"  >Your name</label>
+            <input class="form-control" type="text" name="nameField" id="nameField" >
+            <small class="text-danger" ></small>
             <label class="form-label" for="emailField" >Your email</label>
-            <input class="form-control" type="email" id="emailField" > 
+            <input class="form-control" type="email" name="emailField" id="emailField" > 
+            <small class="text-danger" ></small>
             <label for="query" class="form-label"> Your query</label>
-            <textarea class="form-control" id="query"></textarea>   
+            <textarea class="form-control" name="query" id="query"></textarea>  
+            <small class="text-danger" ></small> 
             <div class="text-conter  mt-4">
                 <button type="submit" class="btn btn-secondary">Submit</button>
             </div>
@@ -44,7 +47,9 @@
      
 
     <special-footer></special-footer>
-    <link rel="stylesheet" href="/bootstrap/bootstrap.min.js"> 
+    
     <script src="/JavaScript/headerFooter.js" ></script>
+  <script src="/JavaScript/Contact.js"></script>
+ 
 </body>
 </html>
