@@ -1,5 +1,5 @@
-class specialHeader extends HTMLElement{
-    connectedCallback(){
+class specialHeader extends HTMLElement {
+    connectedCallback() {
         this.innerHTML = `
         <header class="">
         <nav class="container-fluid align-items-center text-center mom img-fluid ">
@@ -16,9 +16,10 @@ class specialHeader extends HTMLElement{
     }
 }
 
-class specialFooter extends HTMLElement{
-    connectedCallback(){
+class specialFooter extends HTMLElement {
+    connectedCallback() {
         this.innerHTML = `
+        <div class="footer"></div>
         <footer class="">
          <div class="container-fluid align-items-center text-center momr-n ">
                 <a href="">Instagram</a>
@@ -30,5 +31,5 @@ class specialFooter extends HTMLElement{
     `
     }
 }
-customElements.define('special-header' , specialHeader )
-customElements.define('special-footer' , specialFooter)
+customElements.define('special-header', specialHeader)
+customElements.define('special-footer', specialFooter)
