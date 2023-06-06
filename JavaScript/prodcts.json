@@ -2,36 +2,42 @@
 {
   "Tools": [
     {
+      "name": "כלי עבודה לבית",
       "price": 1450 ,
       "Description": "A collection of the best tools to renovate the house",
       "img": "C:/projects/img/Prodcust1.jpg",
       "daddlin": "30/7/23"
     },
     {
+      "name":"כלי עבודה לקבלן",
       "price": 1350,
       "Description": "A collection of the best tools for a contractor",
       "img": "C:/projects/img/Prodcust2.jpg",
       "daddlin": "5/8/23"
     },
     {
+      "name": "ארגז מברגים",
       "price": 450,
       "Description": "A collection of the best screwdrivers for the home",
       "img": "C:/projects/img/Prodcust3.jpg",
       "daddlin": "29/7/23"
     },
     {
+      "name": "ארגז מברגים",
       "price": 390,
       "Description": "A collection of the best screwdrivers to keep in the car",
       "img": "C:/projects/img/Prodcust4.jpg",
       "daddlin": "25/7/23"
     },
     {
+      "name": "ארגז כולל הכל מברגים",
       "price": 460,
       "Description": "A collection of screws with a flexible case",
       "img": "C:/projects/img/Prodcust5.jpg",
       "daddlin": "2/8/23"
     },
     {
+      "name":"ארגז כולל הכל מברגים",
       "price": 550,
       "Description": "Collection of screws with hard case",
       "img": "C:/projects/img/Prodcust6.jpg",
@@ -40,36 +46,42 @@
   ],
   "A thinking game for development"  : [
     {
+      "name": "חלומות",
       "price": 85,
       "Description": "A thinking game for children aged 3",
       "img": "C:/projects/img/Pro-1.jpg ",
       "daddlin": "29/7/23"
     },
     {
+      "name": "בול פגיעה",
       "price": 90,
       "Description": "A thinking game for children aged 12",
       "img": "C:/projects/img/Pro-2.jpg",
       "daddlin": "1/8/23"
     },
     {
+      "name": "משושים",
       "price": 105,
       "Description": "A thinking game for a group of children",
       "img": "C:/projects/img/Pro-3.jpg",
       "daddlin": "29/7/23"
     },
     {
+      "name": "ארץ עיר",
       "price": 220,
       "Description": "A thinking game for adults",
       "img": "C:/projects/img/Pro-4.jpg",
       "daddlin": "26/7/23"
     },
     {
+      "name": "טיקו",
       "price": 150,
       "Description": "A thinking game for a group of adults",
       "img": "C:/projects/img/Pro-5.jpg",
       "daddlin": "24/7/23"
     },
     {
+      "name": "מנופול",
       "price": 190,
       "Description": "A thinking game for all ages",
       "img": "C:/projects/img/Pro-6.jpg",
