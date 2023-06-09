@@ -1,21 +1,17 @@
-import { cretPro } from "./MangerPro.js";
+import { cretProdcust } from "./MangerProducst.js";
 
 $(() => {
-   into();
-})
+   init();
+});
 
+export const data = [];
 
-const into = () => {
+const init = () => {
    let myjson = "/JavaScript/products.json";
    fetch(myjson)
-      .then(resp => resp.json())
-      .then(data => {
-         console.log(data);
-         cretPro(data);
+      .then(res => res.json())
+      .then(res => {
+         data.splice(0, data.length -1, res)
+         cretProdcust(res);
       })
 }
-
-
-
-
-

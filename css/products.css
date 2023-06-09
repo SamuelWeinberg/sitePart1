@@ -2,3 +2,10 @@
     /* object-fit: cover; */
     height: 100px;
 }
+.left{
+    float: left;
+      margin-right: 10px;
+}
+.spacious{
+    margin-right: 10px; 
+}
