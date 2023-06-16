@@ -1,7 +1,9 @@
-import { cretProdcust } from "./MangerProducst.js";
+import { cretProdcust, filterProducts, } from "./MangerProducst.js";
+
 
 $(() => {
    init();
+   filterProducts()
 });
 
 export const data = [];
@@ -11,7 +13,9 @@ const init = () => {
    fetch(myjson)
       .then(res => res.json())
       .then(res => {
-         data.splice(0, data.length -1, res)
+         data.splice(0, data.length -1, ...res)
          cretProdcust(res);
       })
 }
+
+

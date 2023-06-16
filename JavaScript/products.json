@@ -5,7 +5,7 @@
     "Description": "A collection of the best tools to renovate the house",
     "img": "/img/Prodcust1.jpg",
     "deadline": "30/7/23",
-    "category":"Tools"
+    "category":"tools"
   },
   {
     "name":"כלי עבודה לקבלן",
@@ -13,7 +13,7 @@
     "Description": "A collection of the best tools for a contractor",
     "img": "/img/Prodcust2.jpg",
     "deadline": "5/8/23",
-    "category":"Tools"
+    "category":"tools"
   },
   {
     "name": "ארגז מברגים",
@@ -21,7 +21,7 @@
     "Description": "A collection of the best screwdrivers for the home",
     "img": "/img/Prodcust3.jpg",
     "deadline": "29/7/23",
-    "category":"Tools"
+    "category":"tools"
   },
   {
     "name": "ארגז מברגים",
@@ -29,7 +29,7 @@
     "Description": "A collection of the best screwdrivers to keep in the car",
     "img": "/img/Prodcust4.jpg",
     "deadline": "25/7/23",
-    "category":"Tools"
+    "category":"tools"
   },
   {
     "name": "ארגז כולל הכל מברגים",
@@ -37,7 +37,7 @@
     "Description": "A collection of screws with a flexible case",
     "img": "/img/Prodcust5.jpg",
     "deadline": "2/8/23",
-    "category":"Tools"
+    "category":"tools"
   },
   {
     "name":"ארגז כולל הכל מברגים",
@@ -45,7 +45,7 @@
     "Description": "Collection of screws with hard case",
     "img": "/img/Prodcust6.jpg",
     "deadline": "28/7/23",
-    "category":"Tools"
+    "category":"tools"
   },
   {
     "name": "חלומות",

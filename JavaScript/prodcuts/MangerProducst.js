@@ -1,8 +1,17 @@
+import { data } from "./app.js";
 import classProdcust from "./classProdcust.js";
+
 
 export const cretProdcust = (ar, category = "") => {
     $('#row').empty();
     console.log(ar)
-    ar.filter(item => !category || item.category == category)
+    ar.filter(item => !category ||( item.category == category))
         .forEach(item => new classProdcust("#row", item).render());
-}
+} 
+ 
+export const filterProducts = () => {
+    $('#sdmit').on("change", function(){
+        cretProdcust (data, $(this).val())
+    })
+  
+ }

@@ -9,3 +9,16 @@
 .spacious{
     margin-right: 10px; 
 }
+.input-search{
+    position: relative;
+}
+.input-search svg{
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+.dd{
+    width: 60px;
+}
