@@ -1,6 +1,6 @@
 [
   {
-    "name": "כלי עבודה לבית",
+    "name": "home tools",
     "price": 1450 ,
     "Description": "A collection of the best tools to renovate the house",
     "img": "/img/Prodcust1.jpg",
@@ -8,7 +8,7 @@
     "category":"tools"
   },
   {
-    "name":"כלי עבודה לקבלן",
+    "name":"work tools for the contractor",
     "price": 1350,
     "Description": "A collection of the best tools for a contractor",
     "img": "/img/Prodcust2.jpg",
@@ -16,7 +16,7 @@
     "category":"tools"
   },
   {
-    "name": "ארגז מברגים",
+    "name": "box of screws",
     "price": 450,
     "Description": "A collection of the best screwdrivers for the home",
     "img": "/img/Prodcust3.jpg",
@@ -24,7 +24,7 @@
     "category":"tools"
   },
   {
-    "name": "ארגז מברגים",
+    "name": "box of screws",
     "price": 390,
     "Description": "A collection of the best screwdrivers to keep in the car",
     "img": "/img/Prodcust4.jpg",
@@ -32,7 +32,7 @@
     "category":"tools"
   },
   {
-    "name": "ארגז כולל הכל מברגים",
+    "name": "box includes everything from screws",
     "price": 460,
     "Description": "A collection of screws with a flexible case",
     "img": "/img/Prodcust5.jpg",
@@ -40,7 +40,7 @@
     "category":"tools"
   },
   {
-    "name":"ארגז כולל הכל מברגים",
+    "name":"box includes everything from screws",
     "price": 550,
     "Description": "Collection of screws with hard case",
     "img": "/img/Prodcust6.jpg",
@@ -48,7 +48,7 @@
     "category":"tools"
   },
   {
-    "name": "חלומות",
+    "name": "dreams",
     "price": 85,
     "Description": "A thinking game for children aged 3",
     "img": "/img/Pro-1.jpg ",
@@ -56,7 +56,7 @@
     "category": "game"
   },
   {
-    "name": "בול פגיעה",
+    "name": "bull's eye",
     "price": 90,
     "Description": "A thinking game for children aged 12",
     "img": "/img/Pro-2.jpg",
@@ -64,7 +64,7 @@
     "category": "game"
   },
   {
-    "name": "משושים",
+    "name": "hexagons",
     "price": 105,
     "Description": "A thinking game for a group of children",
     "img": "/img/Pro-3.jpg",
@@ -72,7 +72,7 @@
     "category": "game"
   },
   {
-    "name": "ארץ עיר",
+    "name": "country city",
     "price": 220,
     "Description": "A thinking game for adults",
     "img": "/img/Pro-4.jpg",
@@ -80,7 +80,7 @@
     "category": "game"
   },
   {
-    "name": "טיקו",
+    "name": "tiko",
     "price": 150,
     "Description": "A thinking game for a group of adults",
     "img": "/img/Pro-5.jpg",
@@ -88,7 +88,7 @@
     "category": "game"
   },
   {
-    "name": "מנופול",
+    "name": "manipulate",
     "price": 190,
     "Description": "A thinking game for all ages",
     "img": "/img/Pro-6.jpg",
@@ -96,7 +96,7 @@
     "category": "game"
   },
   {
-    "name": "מחבת",
+    "name": "pan",
     "price": 330,
     "Description": "A pan that is a must in every home",
     "img": "/img/Prod-1.jpg ",
@@ -104,7 +104,7 @@
     "category": "kitchen"
   },
   {
-    "name": "מחבתות",
+    "name": "pans",
     "price":450,
     "Description": "A set of pans that are a must in every home",
     "img": "/img/Prod-2.jpg",
@@ -112,7 +112,7 @@
     "category": "kitchen"
   },
   {
-    "name": "מחבתות עגולות " ,
+    "name": "round pans" ,
     "price": 760,
     "Description": "A set of strong pans",
     "img": "/img/Prod-3.jpg",
@@ -120,7 +120,7 @@
     "category": "kitchen"
   },
   {
-    "name": "מחבתות בצורות" ,
+    "name": "pans in shapes" ,
     "price": 890,
     "Description": "A set of strong pans that are a must in every home",
     "img": "/img/Prod-4.jpg",
@@ -128,7 +128,7 @@
     "category": "kitchen"
   },
   {
-    "name": "מחבתות וסירים" ,
+    "name": "pans and pots" ,
     "price": 950,
     "Description": "A set of frying pans and pots for every kitchen",
     "img": "/img/Prod-5.jpg",
@@ -136,7 +136,7 @@
     "category": "kitchen"
   },
   {
-    "name": "מחבתות עגולות " ,
+    "name": "round pans" ,
     "price": 660,
     "Description": "A set of beautiful round pans",
     "img": "/img/Prod-6.jpg",

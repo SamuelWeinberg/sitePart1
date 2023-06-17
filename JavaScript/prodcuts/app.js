@@ -1,9 +1,10 @@
-import { cretProdcust, filterProducts, } from "./MangerProducst.js";
+import { cretProdcust, filterProducts, createInput, } from "./MangerProducst.js";
 
 
 $(() => {
    init();
    filterProducts()
+   createInput()
 });
 
 export const data = [];
