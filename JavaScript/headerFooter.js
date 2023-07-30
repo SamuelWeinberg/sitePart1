@@ -2,13 +2,17 @@ class specialHeader extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
         <header class="">
-        <nav class="container-fluid align-items-center text-center mom img-fluid ">
+        <nav class="container-fluid align-items-center text-center img-fluid ">
             <div class="non-mt">
                <img src="../img/h22.png" width="80px">
                 <a href="../index.html"> Home</a>
                 <a href="../html/AbutUs.html">Abut us</a>
                 <a href="../html/Contact.html">Contact </a>
-                <a href="../html/Products.html">Products</a>
+                <a href="../html/Prodcuts.html">Prodcuts</a>
+                <div class="cart-container">
+                    <div class="count" id="idCount"></div>
+                    <i id="cartIcon" class="cart fa-solid fa-cart-shopping "></i> 
+                </div>
             </div>
         </nav>
     </header>

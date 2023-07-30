@@ -1,24 +1,23 @@
-.product img {
-    /* object-fit: cover; */
-    height: 100px;
+#searchDesign{
+    display: flex;
+    
 }
-.left{
-    float: left;
-      margin-right: 10px;
-}
-.spacious{
-    margin-right: 10px; 
-}
-.input-search{
+#searchDesign .SearchLocation{
     position: relative;
 }
-.input-search svg{
-    height: 25px;
-    width: 25px;
+
+#searchDesign .SearchLocation svg {
     position: absolute;
-    left: 5px;
-    top: 5px;
+    top: 7px;
+    right: 10px;
 }
-.dd{
-    width: 60px;
+#checkoutButton{
+    position: fixed;
+    right: 23px;
+    /* הכפתור שסוגר את החלון של העגלה  */
+}
+#btnDarkClas{
+    position: relative;
+    right: -273px; 
+    /* הכפתור שסגור את החלון של הפרטים הנוספים על המוצר  */
 }

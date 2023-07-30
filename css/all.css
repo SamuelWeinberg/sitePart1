@@ -15,11 +15,7 @@ nav{
     padding-top: 20px;
     padding-bottom: 6px;
 }
-.mom{
-    
-    /*margin-top: 10px;*/
-   
-}
+
 
 header{
     min-height: 80px;
@@ -60,3 +56,5 @@ footer{
   .footer{
     height: 80px;
   }
+ 
+ 
